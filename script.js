@@ -1,1 +1,1 @@
-console.log('primeira versao');
+console.log('primeira versao do script');
